@@ -7,4 +7,4 @@ GIS analysis of informal waste infrastructure in Garden East, Karachi. Includes 
 ## Composite Vulnerability Index
 ![Vulnerability Index](Karachi_Composite_Vulnerability_Map.png)
 
-Full methodology and limitations write-up: [Read here](methodology_and_limitations.pdf)
+Full methodology and limitations write-up: [Read here](Methodology_and_Limitations.pdf)
